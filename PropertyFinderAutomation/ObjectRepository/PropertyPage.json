@@ -1,0 +1,9 @@
+﻿[
+	{
+		"name": "Bed Rooms",
+		"locator": "cssSelector",
+		"value": "table.fixed-table>tbody>tr:nth-child(5)>td"
+	}
+
+		
+]
